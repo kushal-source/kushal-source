@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushal</h1>
 <h3 align="center">Student | Fitness Fanatic | Just a guy who love computers….</h3>
 
-- 🔭 I’m currently working on **Commerical Motorcycle site**
 
 - 👨‍💻Visit my Portfolio [https://kushalsharma-portfolio.carrd.co/](https://kushalsharma-portfolio.carrd.co/)
 
